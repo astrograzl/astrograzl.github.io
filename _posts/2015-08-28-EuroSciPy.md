@@ -1,11 +1,10 @@
 ---
 title: Numerical methods in astrophysics
-tags: python, euroscipy
+tags: jupyter, python, euroscipy
 layout: post
 ---
 
 Hello.
-
 My name is Zdeněk and I am a PhD student of astrophysics
 at Department of Theoretical physics and Astrophysics
 at Faculty of Science of Masaryk University in Brno,
@@ -17,14 +16,13 @@ Mainly with my supervisor Viktor,
 we are preparing educational material
 for the new subject
 
-**Numerical methods in astrophysics**.
+<center>**Numerical methods in astrophysics**.</center>
 
 Using interactive capabilities of IPython notebook
 and simplicity of Python language,
 we are trying change a mind of ours students
 about a computer.
-
-From a thing to the tool
+From a *thing* to the *tool*
 for effective solving of their physical,
 respectively astrophysical,
 problems.
@@ -39,8 +37,8 @@ for scientific computing.
 And by the way,
 we want teach the students
 how to use Git
-for a team work.
+for teamwork.
 
 Thank you ;-)
 
-* [Burgers' equation](/src/Burger.ipynb)
+* [Burgers' equation](http://nbviewer.jupyter.org/url/astrograzl.github.io/src/Burger.ipynb)
