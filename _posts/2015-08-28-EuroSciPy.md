@@ -16,7 +16,7 @@ Mainly with my supervisor Viktor,
 we are preparing educational material
 for the new subject
 
-<center>**Numerical methods in astrophysics**.</center>
+**Numerical methods in astrophysics**.
 
 Using interactive capabilities of IPython notebook
 and simplicity of Python language,
