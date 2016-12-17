@@ -4,11 +4,13 @@ tags: art, code, java
 layout: post
 ---
 
+Neopakovatelnost okamžiku postavená na náhodě. Výřečnost jazyka s kořeny v *Javě*. Generované umění a virtuání galérie. Krásný je kód a krásný je i jeho výsledek. Inspirace v přírodě, v chaose, ve fraktálech. Spojení technologií do sítě informací. Instrukce pro stroje a komentáře pro lidi. Co oči nevidí se ukrývá ve zdroji. Umělé narušení symetrie. Pokřivené vnímání času a prostoru. Na startu bez cíle. Vynucené ukončení programu.
+
+<!-- more -->
+
 <script src="/src/p5.js"></script>
 <script src="/src/spoje.js"></script>
 <div id="spoje"></div>
-
-Neopakovatelnost okamžiku postavená na náhodě. Výřečnost jazyka s kořeny v *Javě*. Generované umění a virtuání galérie. Krásný je kód a krásný je i jeho výsledek. Inspirace v přírodě, v chaose, ve fraktálech. Spojení technologií do sítě informací. Instrukce pro stroje a komentáře pro lidi. Co oči nevidí se ukrývá ve zdroji. Umělé narušení symetrie. Pokřivené vnímání času a prostoru. Na startu bez cíle. Vynucené ukončení programu.
 
 ```java
 void setup() {                      // nastavení
