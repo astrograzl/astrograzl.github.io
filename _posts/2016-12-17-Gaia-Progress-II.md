@@ -4,11 +4,11 @@ tags: art, code, python
 layout: post
 ---
 
-![map](/img/important.png)
+Vytváření grafů reprezentujících nějaký vědecký výsledek, jsem vždy považoval tak trochu za magii. Ono taky hodně záleží na tom, jaké si vyberete data, jaký znak jim přiřadíte a taky barvu. Tady kontrast nad pozadím můžete podrhnout vhodným odstínem šedé. Také rámečky, aby byly dostatečně široké. A pak se vyznejte v tom, co jste malovali štětcem na papír ve výtvarce na základní škole. Jak zněl ten dotaz na DNA v SQL?
 
 <!-- more -->
 
-Vytváření grafů reprezentujících nějaký vědecký výsledek, jsem vždy považoval tak trochu za magii. Ono taky hodně záleží na tom, jaké si vyberete data, jaký znak jim přiřadíte a taky barvu. Tady kontrast nad pozadím můžete podrhnout vhodným odstínem šedé. Také rámečky, aby byly dostatečně široké. A pak se vyznejte v tom, co jste malovali štětcem na papír ve výtvarné hodině na základní škole. Jak zněl ten dotaz na DNA v SQL?
+![map](/img/important.png)
 
 ```python
 plt.title("Identity of moving parts ..: from Gaia import Hipparcos")
