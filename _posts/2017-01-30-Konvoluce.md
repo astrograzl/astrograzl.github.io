@@ -4,7 +4,7 @@ tags: python, art, cnn, ml
 layout: post
 ---
 
-![image](/img/weight.png)
+[![image](/img/weight.png)](/img/intro.mp4)
 
 <!-- more -->
 
