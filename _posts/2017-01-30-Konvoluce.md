@@ -1,12 +1,8 @@
 ---
 title: Konvoluce
-tags: python, art, cnn, ml
+tags: python, cnn, ml, ai
 layout: post
 ---
-
-[![image](/img/weight.png)](/img/intro.mp4)
-
-<!-- more -->
 
 Přichází noc, na setmělém nebi se objevují první hvězdy,
 vysoko na obloze klidně září Jižní Kříž. Světlo k nám přináší
@@ -17,6 +13,10 @@ Mapa vyhlídek na vzpomínky budoucích cest.
 Pochopení významu *feature-map* v kontextu.
 Operace s poli v *n*-dimenzionálním tensoru.
 Trocha toho šílenství prý nikomu neublíží...
+
+<!-- more -->
+
+[![image](/img/weight.png)](/img/intro.mp4)
 
 ```python
 import numpy as np
