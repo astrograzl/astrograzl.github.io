@@ -69,7 +69,7 @@ void loop() {
     for (int i = 0; i < 16; i++) {
       if (digitalRead(BTN) == HIGH) {
         lcd.clear();
-        lcd.print("    janak @     ");
+        lcd.print("   zdenek @     ");
         lcd.setCursor(0, 1);
         lcd.print(" astronomie.cz  ");
         delay(10000);
